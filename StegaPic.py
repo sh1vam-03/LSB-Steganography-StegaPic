@@ -392,13 +392,13 @@ random_color = random.choice(colors)
 line = "_"*61
 # Tool Name
 print(random_color + Style.BRIGHT + """
-        ______                         ______ _       
-       / _____) _                     (_____ (_)      
+        ______                         ______ _
+       / _____) _                     (_____ (_)
       ( (____ _| |_ _____  ____ _____  _____) )  ____ 
        (____ (_   _) ___ |/ _  (____ ||  ____/ |/ ___)
        _____) )| |_| ____( (_| / ___ || |    | ( (___ 
       (______/ |___)_____)<___ |_____||_|    |_|<____)
-                           __| |""" + Style.RESET_ALL + "            -" + Fore.GREEN + Style.BRIGHT + 'sh1vam.03'+ Style.RESET_ALL+ random_color + """                     
+                           __| |""" + Style.RESET_ALL + "            -" + Fore.GREEN + Style.BRIGHT + 'sh1vam.03'+ Style.RESET_ALL+ random_color + """
                           (____|
 """ + Style.RESET_ALL)
 print(line)

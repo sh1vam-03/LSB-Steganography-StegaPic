@@ -398,7 +398,7 @@ print(random_color + Style.BRIGHT + """
        (____ (_   _) ___ |/ _  (____ ||  ____/ |/ ___)
        _____) )| |_| ____( (_| / ___ || |    | ( (___ 
       (______/ |___)_____)<___ |_____||_|    |_|<____)
-                           __| |""" + Style.RESET_ALL + "            -" + Fore.GREEN + Style.BRIGHT + 'sh1vam.03'+ Style.RESET_ALL+ random_color + """
+                           __| |""" + Style.RESET_ALL + "            -" + Fore.GREEN + Style.BRIGHT + 'sh1vam-03'+ Style.RESET_ALL+ random_color + """
                           (____|
 """ + Style.RESET_ALL)
 print(line)
